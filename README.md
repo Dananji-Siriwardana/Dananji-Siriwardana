@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dananji-siriwardana&label=Profile%20views&color=0e75b6&style=flat" alt="dananji-siriwardana" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dananji-siriwardana" alt="dananji-siriwardana" /></a> </p>
-
 - 🔭 I’m currently working on **MERN Stack projects**
 
 - 🌱 I’m currently learning **Selenium**
