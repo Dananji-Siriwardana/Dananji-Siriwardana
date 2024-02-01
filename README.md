@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **MERN Stack projects**
 
-- 🌱 I’m currently learning **Selenium**
+- 🌱 I’m currently learning **Selenium,Spring boot**
 
 - 💬 Ask me about **React,UI/UX**
 
