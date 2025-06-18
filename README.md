@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **MERN Stack projects**
 
-- 🌱 I’m currently learning **Selenium,Spring boot**
-
 - 💬 Ask me about **React,UI/UX**
 
 - 📫 How to reach me **dananjisiriwardana412@gmail.com**
